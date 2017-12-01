@@ -17,7 +17,9 @@
         </ul>
       </nav>
     </div>
-
+     <div class="op-menu">
+        <i class="fa fa-bars fa-2x abrir" aria-hidden="true"></i>
+      </div>
     <div class="textb">
       <h1>¡Invierte en GIOTEX!</h1>
     </div>
@@ -30,12 +32,11 @@
 <div class="section" style="padding: 5% 0%;">
       <div class="container">
         <div class="row">
-          <div class="col-md-4 col-md-offset-1">
-            <img src="../img/giotex.png"
-            class="img-responsive">
+          <div class="col-sm-5 col-md-4 col-md-offset-1">
+            <img src="../img/giotex.png" class="img-responsive img-nos">
           </div>
-          <div class="col-md-6">
-            <h1 style="color: #BA124F;">GIOTEX INMOBILIARIA</h1>
+          <div class="col-sm-7 col-md-6">
+            <h1 style="color: #BA124F;" class="tit-gi">GIOTEX INMOBILIARIA</h1>
             <!-- <h3>A subtitle</h3> -->
             <p class="texto3">GIOTEX, en una empresa constituida que ha desarrollado un sólido crecimiento y aceptación que se ha distinguido en otorgar servicios de la más alta calidad a los principales segmentos del mercado inmobiliario. <br><br>
             
@@ -49,38 +50,38 @@
     </div>
 
     <div class="section" style="padding: 5% 0%; background-color: #BA124F;">
-      <div class="container">
+      <div class="container delete-br">
         <div class="row">
-          <div class="col-md-1 col-md-offset-1 icono">
+          <div class="col-sm-1 col-md-1 col-md-offset-1 icono">
             <i class="fa fa-handshake-o fa-5x" aria-hidden="true"></i>
           </div>
-          <div class="col-md-5">
-            <h3 class="text-left" style="color: #000;">Negociación directa, 
+          <div class="col-sm-5 col-md-5">
+            <h3 class="text-left tit-nigg" style="color: #000;">Negociación directa, 
               Total Transparencia</h3>
             <!-- <p class="text-left" style="color: #fff;">Lorem ipsum dolor sit amet, adipiscing elit Aenean commodo ligula eget.</p> -->
           </div>
-          <div class="col-md-1 icono">
+          <div class="col-sm-1 col-md-1 icono">
             <i class="fa fa-line-chart fa-5x" aria-hidden="true"></i>
           </div>
-          <div class="col-md-4">
-            <h3 class="text-left" style="color: #000;">Inversión Segura</h3>
+          <div class="col-sm-4 col-md-4">
+            <h3 class="text-left tit-nigg" style="color: #000;">Inversión Segura</h3>
             <!-- <p class="text-left" style="color: #fff;">Lorem ipsum dolor sit amet, adipiscing elit Aenean commodo ligula eget.</p> -->
           </div>
         </div> <br><br>
         <div class="row">
-          <div class="col-md-1 col-md-offset-1 icono">
+          <div class="col-sm-1 col-md-1 col-md-offset-1 icono">
             <i class="fa fa-address-card fa-5x" aria-hidden="true"></i>
           </div>
-          <div class="col-md-5">
-            <h3 class="text-left" style="color: #000;">Guía para COMPRAR
+          <div class="col-sm-5 col-md-5">
+            <h3 class="text-left tit-nigg" style="color: #000;">Guía para COMPRAR
 tu casa</h3>
             <!-- <p class="text-left" style="color: #fff;">Lorem ipsum dolor sit amet, adipiscing elit Aenean commodo ligula eget.</p> -->
           </div>
-          <div class="col-md-1 icono">
+          <div class="col-sm-1 col-md-1 icono">
             <i class="fa fa-address-card fa-5x" aria-hidden="true"></i>
           </div>
-          <div class="col-md-4 text-center">
-            <h3 class="text-left" style="color: #000;">Guía para VENDER
+          <div class="col-sm-4 col-md-4 text-center">
+            <h3 class="text-left tit-nigg" style="color: #000;">Guía para VENDER
 tu casa</h3>
             <!-- <p class="text-left" style="color: #fff;">Lorem ipsum dolor sit amet, adipiscing elit Aenean commodo ligula eget.</p> -->
           </div>
@@ -89,23 +90,23 @@ tu casa</h3>
     </div>
 
        <div class="section" style="padding: 5% 0%;">
-      <div class="container">
-        <div class="row">
+      <div class="container delete-br">
+        <div class="row elimi-hr">
             <h1 class="tit">FILOSOFIA</h1>
       <hr>
       <br><br>
         <div class="row">
           <div class="col-md-4">
-            <h2 class="text-center">MISION</h2>
-            <p class="text-center">Ser líderes en la Red Inmobiliaria en proyectos habitacionales y comerciales. Colaborar con el desarrollo Inmobiliario de los estados y fomentar la creación de empleos, así como generación de actividad económica y responsabilidad social.</p>
+            <h2 class="text-center tit-mvo">MISION</h2>
+            <p class="text-center txt-mvo">Ser líderes en la Red Inmobiliaria en proyectos habitacionales y comerciales. Colaborar con el desarrollo Inmobiliario de los estados y fomentar la creación de empleos, así como generación de actividad económica y responsabilidad social.</p>
           </div>
           <div class="col-md-4">
-            <h2 class="text-center">VISION</h2>
-            <p class="text-center">Ser líderes en asesoría y consultoría en inversión inmobiliaria comprometiendonos con el desarrollo integral de la región, preservando las bondades naturales de lugar y ofreciendo al mismo tiempo espacios de lujo y confort. Crear inversiones inteligentes que brinden certidumbre, lealtad y confianza a nuestros inversionistas.</p>
+            <h2 class="text-center tit-mvo">VISION</h2>
+            <p class="text-center txt-mvo">Ser líderes en asesoría y consultoría en inversión inmobiliaria comprometiendonos con el desarrollo integral de la región, preservando las bondades naturales de lugar y ofreciendo al mismo tiempo espacios de lujo y confort. Crear inversiones inteligentes que brinden certidumbre, lealtad y confianza a nuestros inversionistas.</p>
           </div>
           <div class="col-md-4">
-            <h2 class="text-center">OBJETIVO</h2>
-            <p class="text-center">Satisfacer a nuestros clientes, brindándoles una asesoría completa en todo tipo de negociaciones, de igual manera mantenernos actualizados en el desarrollo del mercado asi como de sus precios, lo cual nos permite asesorarle para una mejor operación inmobiliaria.
+            <h2 class="text-center tit-mvo">OBJETIVO</h2>
+            <p class="text-center txt-mvo">Satisfacer a nuestros clientes, brindándoles una asesoría completa en todo tipo de negociaciones, de igual manera mantenernos actualizados en el desarrollo del mercado asi como de sus precios, lo cual nos permite asesorarle para una mejor operación inmobiliaria.
 </p>
           </div>
         </div>

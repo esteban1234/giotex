@@ -8,7 +8,7 @@
     <figure class="logo pull-left">
       <img src="img/giotex.png" alt="GIOTEX" class="img-responsive">
     </figure>
-    <div class="pull-right">
+    <div class="pull-right cont-men">
       <nav>
         <ul>
           <a class="selector" id="select" href="index.php">INICIO</a>
@@ -18,6 +18,9 @@
         </ul>
       </nav>
     </div>
+     <div class="op-menu">
+        <i class="fa fa-bars fa-2x abrir" aria-hidden="true"></i>
+      </div>
 
     <div class="textb">
       <h1>¡Atrévete a disfrutar!</h1>
@@ -30,7 +33,7 @@
 
 <div class="section" style="padding: 5% 0%;">
   <div class="container">
-    <div class="row">
+    <div class="row elimi-hr">
       <h1 class="tit">Oportunidades de inversión</h1>
       <hr>
 
@@ -40,7 +43,7 @@
 </div>
 
 <div class="cinta">
-  <div class="fondo1">
+  <div class="fondo1 elimi-hr">
      <h1 class="tit2">¿Qué le voy a dejar a mi familia en el futuro?</h1>
       <hr>
 

@@ -17,16 +17,18 @@
         </ul>
       </nav>
     </div>
-
+     <div class="op-menu">
+        <i class="fa fa-bars fa-2x abrir" aria-hidden="true"></i>
+      </div>
     <div class="textb">
-      <h1 style="color: #fff;">¡CONTACTANOS!</h1>
+      <h1 class="tit-h1cont" style="color: #fff;">¡CONTACTANOS!</h1>
     </div>
   </div>
 </div>
 
      <div class="container animated fadeIn" style="padding: 5% 0%;">
 
-  <div class="row">
+  <div class="row delete-br elimi-hr">
     <h1 class="header-title"> Formulario de contacto </h1>
     <hr> <br><br>
     <div class="col-sm-12" id="parent">
@@ -35,24 +37,26 @@
       </div>
 
       <div class="col-sm-6">
-        <form action="form.php" class="contact-form" method="post">
+        <form action="form.php" class="contact-form" method="post" >
   
             <div class="form-group">
-              <input type="text" class="form-control" id="name" name="nm" placeholder="Escribe tu nombre completo" required="">
+              <input type="text" class="form-control" id="txtNOMBRE" name="nm" placeholder="Escribe tu nombre completo" required="">
             </div>
         
         
             <div class="form-group form_left">
-              <input type="email" class="form-control" id="email" name="em" placeholder="Escribe tu correo completo" required="">
+              <input type="email" class="form-control" id="txtCORREO" name="em" placeholder="Escribe tu correo completo" required="">
             </div>
         
           <div class="form-group">
-               <input type="text" class="form-control" id="phone" onkeypress="return event.charCode >= 48 && event.charCode <= 57" maxlength="10" placeholder="Escribe tu teléfono completo" required="">
+               <input type="text" class="form-control" id="txtTELEFONO" onkeypress="return event.charCode >= 48 && event.charCode <= 57" maxlength="10" placeholder="Escribe tu teléfono completo" required="">
           </div>
           <div class="form-group">
-          <textarea class="form-control textarea-contact" rows="5" id="comment" name="FB" placeholder="Escribe tu comentario completo" required=""></textarea>
+          <textarea class="form-control textarea-contact" rows="5" id="txtCOMENTARIO" name="FB" placeholder="Escribe tu comentario completo" required=""></textarea>
           <br>
-            <button class="btn btn-default btn-send"> <span class="glyphicon fa fa-send"></span> ENVIAR </button>
+
+           <div id="_AJAX_PRE_"></div>
+            <button class="btn btn-default btn-send" onclick="sendCORREO()"> <span class="glyphicon fa fa-send"></span> ENVIAR </button>
           </div>
         </form>
       </div>
@@ -62,7 +66,7 @@
   <div class="container second-portion">
   <div class="row">
         <!-- Boxes de Acoes -->
-      <div class="col-md-3">
+      <div class="col-sm-6 col-md-3">
       <div class="box">             
         <div class="icon">
           <div class="image"><i class="fa fa-envelope" aria-hidden="true"></i></div>
@@ -81,7 +85,7 @@
       </div> 
     </div>
       
-        <div class="col-md-3">
+        <div class="col-sm-6 col-md-3">
       <div class="box">             
         <div class="icon">
           <div class="image"><i class="fa fa-mobile" aria-hidden="true"></i></div>
@@ -96,8 +100,8 @@
         <div class="space"></div>
       </div> 
     </div>
-      
-    <div class="col-md-3">
+    <div class="clearfix visible-sm"></div>
+    <div class="col-sm-6 col-md-3">
       <div class="box">             
         <div class="icon">
           <div class="image"><i class="fa fa-map-marker" aria-hidden="true"></i></div>
@@ -111,8 +115,8 @@
         <div class="space"></div>
       </div> 
     </div>  
-
-    <div class="col-md-3">
+    
+    <div class="col-sm-6 col-md-3">
       <div class="box">             
         <div class="icon">
           <div class="image"><i class="fa fa-clock-o" aria-hidden="true"></i></div>

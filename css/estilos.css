@@ -27,6 +27,11 @@
   margin-left: 5%;
   margin-top: 2%;
 }
+
+.op-menu{
+  display: none;
+}
+
 nav{
   /*border: 2px red solid;*/
   width: 100%;

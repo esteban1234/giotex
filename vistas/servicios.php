@@ -18,7 +18,9 @@
         </ul>
       </nav>
     </div>
-
+     <div class="op-menu">
+        <i class="fa fa-bars fa-2x abrir" aria-hidden="true"></i>
+      </div>
     <div class="textb">
       <h1 style="color: #fff;">¡OFERTA INMOBILIARIA!</h1>
     </div>
@@ -44,47 +46,47 @@
 </div>
 
 <div class="section" style="padding: 5% 0%; background-color: #BA124F">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-4">
-            <h2 class="text-center" style="color: #fff;">Protege tu dinero</h2>
-            <p class="text-center" style="color: #fff;">Invertir te da la oportunidad de multiplicar tu dinero, evitando que desaparezca en gastos innecesarios.</p>
+      <div class="container delete-br">
+        <div class="row brdr">
+          <div class="col-sm-4 col-md-4">
+            <h2 class="text-center tit-pifilmdrs" style="color: #fff;">Protege tu dinero</h2>
+            <p class="text-center txt-pifilmdrs" style="color: #fff;">Invertir te da la oportunidad de multiplicar tu dinero, evitando que desaparezca en gastos innecesarios.</p>
           </div>
-          <div class="col-md-4">
-            <h2 class="text-center" style="color: #fff;">Inversión que trabaja por ti</h2>
-            <p class="text-center" style="color: #fff;">Mientras tú disfrutas lo que te gusta hacer, tu inmueble genera plusvalía sin necesidad de meter ni las manos.</p>
+          <div class="col-sm-4 col-md-4">
+            <h2 class="text-center tit-pifilmdrs" style="color: #fff;">Inversión que trabaja por ti</h2>
+            <p class="text-center txt-pifilmdrs" style="color: #fff;">Mientras tú disfrutas lo que te gusta hacer, tu inmueble genera plusvalía sin necesidad de meter ni las manos.</p>
           </div>
-          <div class="col-md-4">
-            <h2 class="text-center" style="color: #fff;">Facilidad de compra</h2>
-            <p class="text-center" style="color: #fff;">No tienes que realizar un esfuerzo extra, tu mayor trabajo será elegir tu inmueble.</p>
-          </div>
-        </div><br><br>
-        <div class="row">
-          <div class="col-md-4">
-            <h2 class="text-center" style="color: #fff;">Inversión accesible</h2>
-            <p class="text-center" style="color: #fff;">No necesitas grandes cantidades de dinero para multiplicar los beneficios a futuro.</p>
-          </div>
-          <div class="col-md-4">
-            <h2 class="text-center" style="color: #fff;">Largo plazo, riesgo corto</h2>
-            <p class="text-center" style="color: #fff;">Las inversiones tradicionales se miden por el riesgo y la volatilidad. Al invertir en un inmueble, el tiempo es tu mejor aliado.</p>
-          </div>
-          <div class="col-md-4">
-            <h2 class="text-center" style="color: #fff;">Mayor rendimiento</h2>
-            <p class="text-center" style="color: #fff;">Adquirir un lote de inversión te da la posibilidad de invertir antes de que suceda, anticipándote al desarrollo de la zona y disfrutando de un mayor rendimiento en tu propiedad.</p>
+          <div class="col-sm-4 col-md-4">
+            <h2 class="text-center tit-pifilmdrs" style="color: #fff;">Facilidad de compra</h2>
+            <p class="text-center txt-pifilmdrs" style="color: #fff;">No tienes que realizar un esfuerzo extra, tu mayor trabajo será elegir tu inmueble.</p>
           </div>
         </div><br><br>
-        <div class="row">
-          <div class="col-md-4">
-            <h2 class="text-center" style="color: #fff;">Deja de trabajar para el banco.</h2>
-            <p class="text-center" style="color: #fff;">No pagues altas comisiones para los bancos o casas de bolsa, aquí el rendimiento es completamente tuyo.</p>
+        <div class="row brdr">
+          <div class="col-sm-4 col-md-4">
+            <h2 class="text-center tit-pifilmdrs" style="color: #fff;">Inversión accesible</h2>
+            <p class="text-center txt-pifilmdrs" style="color: #fff;">No necesitas grandes cantidades de dinero para multiplicar los beneficios a futuro.</p>
           </div>
-          <div class="col-md-4">
-            <h2 class="text-center" style="color: #fff;">Responde ante emergencias</h2>
-            <p class="text-center" style="color: #fff;">Los terrenos e inmuebles de inversión son altamente liquidables, te pueden sacar de cualquier apuro que tengas.</p>
+          <div class="col-sm-4 col-md-4">
+            <h2 class="text-center tit-pifilmdrs" style="color: #fff;">Largo plazo, riesgo corto</h2>
+            <p class="text-center txt-pifilmdrs" style="color: #fff;">Las inversiones tradicionales se miden por el riesgo y la volatilidad. Al invertir en un inmueble, el tiempo es tu mejor aliado.</p>
           </div>
-          <div class="col-md-4">
-            <h2 class="text-center" style="color: #fff;">Seguridad financiera</h2>
-            <p class="text-center" style="color: #fff;">La tierra e inmueble no se deprecia y es una inversión blindada ante crisis y cambios en el mercado económico.</p>
+          <div class="col-sm-4 col-md-4">
+            <h2 class="text-center tit-pifilmdrs" style="color: #fff;">Mayor rendimiento</h2>
+            <p class="text-center txt-pifilmdrs" style="color: #fff;">Adquirir un lote de inversión te da la posibilidad de invertir antes de que suceda, anticipándote al desarrollo de la zona y disfrutando de un mayor rendimiento en tu propiedad.</p>
+          </div>
+        </div><br><br>
+        <div class="row brdr">
+          <div class="col-sm-4 col-md-4">
+            <h2 class="text-center tit-pifilmdrs" style="color: #fff;">Deja de trabajar para el banco.</h2>
+            <p class="text-center txt-pifilmdrs" style="color: #fff;">No pagues altas comisiones para los bancos o casas de bolsa, aquí el rendimiento es completamente tuyo.</p>
+          </div>
+          <div class="col-sm-4 col-md-4">
+            <h2 class="text-center tit-pifilmdrs" style="color: #fff;">Responde ante emergencias</h2>
+            <p class="text-center txt-pifilmdrs" style="color: #fff;">Los terrenos e inmuebles de inversión son altamente liquidables, te pueden sacar de cualquier apuro que tengas.</p>
+          </div>
+          <div class="col-sm-4 col-md-4">
+            <h2 class="text-center tit-pifilmdrs" style="color: #fff;">Seguridad financiera</h2>
+            <p class="text-center txt-pifilmdrs" style="color: #fff;">La tierra e inmueble no se deprecia y es una inversión blindada ante crisis y cambios en el mercado económico.</p>
           </div>
         </div>
       </div>
@@ -92,35 +94,35 @@
 
     <div class="section" style="padding: 5% 0%;">
       <div class="container">
-        <div class="row">
+        <div class="row elimi-hr">
           <h1 class="tit">Bienes inmuebles, tales como :</h1>
       <hr> <br><br>
-          <div class="col-md-3">
+          <div class="col-sm-6 col-md-3">
             <div class="imagen">
               
             </div>
-            <h2 class="text-center">CASAS</h2>
+            <h2 class="text-center tit-cetb">CASAS</h2>
             
           </div>
-          <div class="col-md-3">
+          <div class="col-sm-6 col-md-3">
             <div class="imagen2">
               
             </div>
-            <h2 class="text-center">EDIFICIOS</h2>
+            <h2 class="text-center tit-cetb">EDIFICIOS</h2>
             
           </div>
-          <div class="col-md-3">
+          <div class="col-sm-6 col-md-3">
             <div class="imagen3">
               
             </div>
-            <h2 class="text-center">TERRENOS</h2>
+            <h2 class="text-center tit-cetb">TERRENOS</h2>
             
           </div>
-          <div class="col-md-3">
+          <div class="col-sm-6 col-md-3">
             <div class="imagen4">
               
             </div>
-            <h2 class="text-center">BODEGAS</h2>
+            <h2 class="text-center tit-cetb">BODEGAS</h2>
             
           </div>
         </div>
